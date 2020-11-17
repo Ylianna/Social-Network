@@ -1,0 +1,26 @@
+.dialogs {
+display: grid;
+    grid-template-columns: 2fr 10fr;
+}
+
+.dialogsItems  {
+padding: 10px;
+    color: burlywood;
+}
+.active {
+    color: gold;
+}
+.dialog {
+    font-family: Georgia;
+    margin: 3px;
+}
+.messages {
+padding: 10px;
+    color: aquamarine;
+    font-family: "Candara Light";
+    font-size: larger;
+}
+
+.message {
+
+}
