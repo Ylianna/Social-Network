@@ -1,16 +1,18 @@
 import React from 'react';
-import s from'./ProfileInfo.module.css';
+import s from './ProfileInfo.module.css';
 
 const ProfileInfo = () => {
     return (
         <div>
-            <div className={s.imge}>
-                <img src="https://static.make.ua/catalog/01/nature-00385__1365108164__615.jpg" alt=''></img>
+            <div>
+                <img
+                    src='https://images.pexels.com/photos/248797/pexels-photo-248797.jpeg?auto=compress&cs=tinysrgb&h=350'/>
             </div>
             <div className={s.descriptionBlock}>
-                ava + describtion
+                ava + description
             </div>
-        </div>);
+        </div>
+    )
 }
 
 export default ProfileInfo;
