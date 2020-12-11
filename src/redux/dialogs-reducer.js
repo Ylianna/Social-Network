@@ -1,4 +1,3 @@
-
 const SEND_MESSAGE = 'SEND_MESSAGE';
 
 let initialState = {
