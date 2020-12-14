@@ -19,11 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="875de69f-6019-44d1-8b10-4b4f9bb4aa97" name="Default Changelist" comment="80_less">
-      <change afterPath="$PROJECT_DIR$/src/redux/users-selectors.js" afterDir="false" />
+    <list default="true" id="875de69f-6019-44d1-8b10-4b4f9bb4aa97" name="Default Changelist" comment="81_less">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Users/UsersContainer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Users/UsersContainer.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/users-reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/users-reducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +66,7 @@
       <updated>1607703326439</updated>
       <workItem from="1607703374361" duration="6050000" />
       <workItem from="1607709838921" duration="26000" />
-      <workItem from="1607960644164" duration="7354000" />
+      <workItem from="1607960644164" duration="10696000" />
     </task>
     <task id="LOCAL-00001" summary="80_less">
       <created>1607965648841</created>
@@ -76,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607965648841</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="81_less">
+      <created>1607969456055</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607969456055</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,17 +102,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="80_less" />
-    <option name="LAST_COMMIT_MESSAGE" value="80_less" />
+    <MESSAGE value="81_less" />
+    <option name="LAST_COMMIT_MESSAGE" value="81_less" />
   </component>
   <component name="WindowStateProjectService">
     <state x="184" y="9" key="SettingsEditor" timestamp="1607709710585">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1607709710585" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1607965656124">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1607969459815">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1607965656124" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1607969459815" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1607705443489">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
