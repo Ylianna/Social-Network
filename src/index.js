@@ -8,8 +8,12 @@ import {BrowserRouter} from "react-router-dom";
 import {Provider} from "react-redux";
 
 ReactDOM.render(
+    <BrowserRouter>
+        <Provider store={store}>
 
-            <App/>, document.getElementById('root'));
+            <App/>
+        </Provider>
+    </BrowserRouter>, document.getElementById('root'));
 
 
 // API
