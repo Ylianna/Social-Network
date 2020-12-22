@@ -19,15 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="875de69f-6019-44d1-8b10-4b4f9bb4aa97" name="Default Changelist" comment="92_less">
-      <change afterPath="$PROJECT_DIR$/src/components/common/Paginator/Paginator.test.jsx" afterDir="false" />
+    <list default="true" id="875de69f-6019-44d1-8b10-4b4f9bb4aa97" name="Default Changelist" comment="93_less">
+      <change afterPath="$PROJECT_DIR$/src/hoc/withSuspense.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Users/User.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Users/User.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Users/Users.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Users/Users.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/common/Paginator/Paginator.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/common/Paginator/Paginator.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/common/Paginator/Paginator.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/common/Paginator/Paginator.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/users-reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/users-reducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -178,7 +174,7 @@
       <workItem from="1608307607062" duration="6014000" />
       <workItem from="1608314653892" duration="1777000" />
       <workItem from="1608642367085" duration="3040000" />
-      <workItem from="1608646459112" duration="1170000" />
+      <workItem from="1608646459112" duration="7430000" />
     </task>
     <task id="LOCAL-00001" summary="80_less">
       <created>1607965648841</created>
@@ -271,7 +267,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608318938297</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="93_less">
+      <created>1608648108745</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1608648108745</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -302,13 +305,14 @@
     <MESSAGE value="90_less" />
     <MESSAGE value="91_less" />
     <MESSAGE value="92_less" />
-    <option name="LAST_COMMIT_MESSAGE" value="92_less" />
+    <MESSAGE value="93_less" />
+    <option name="LAST_COMMIT_MESSAGE" value="93_less" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="551" y="275" key="#ESLint" timestamp="1608647476847">
+    <state x="551" y="275" key="#ESLint" timestamp="1608651227146">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="551" y="275" key="#ESLint/0.0.1366.728@0.0.1366.728" timestamp="1608647476847" />
+    <state x="551" y="275" key="#ESLint/0.0.1366.728@0.0.1366.728" timestamp="1608651227146" />
     <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser" timestamp="1608049983375">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -381,10 +385,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1607709710585" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1608318942559">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1608648115195">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1608318942559" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1608648115195" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1608221669430">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
