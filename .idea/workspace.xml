@@ -19,12 +19,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="875de69f-6019-44d1-8b10-4b4f9bb4aa97" name="Default Changelist" comment="94_less">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="875de69f-6019-44d1-8b10-4b4f9bb4aa97" name="Default Changelist" comment="95_less">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hoc/withSuspense.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/hoc/withSuspense.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/api.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/Profile.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/Profile.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/ProfileContainer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/ProfileContainer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileInfo.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileInfo.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileInfo.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileInfo.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/profile-reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/profile-reducer.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,7 +170,7 @@
       <workItem from="1608642367085" duration="3040000" />
       <workItem from="1608646459112" duration="7870000" />
       <workItem from="1609256913201" duration="9959000" />
-      <workItem from="1609861523375" duration="3802000" />
+      <workItem from="1609861523375" duration="8370000" />
     </task>
     <task id="LOCAL-00001" summary="80_less">
       <created>1607965648841</created>
@@ -275,7 +277,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608655402342</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="95_less">
+      <created>1609865465487</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1609865465488</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -308,7 +317,8 @@
     <MESSAGE value="92_less" />
     <MESSAGE value="93_less" />
     <MESSAGE value="94_less" />
-    <option name="LAST_COMMIT_MESSAGE" value="94_less" />
+    <MESSAGE value="95_less" />
+    <option name="LAST_COMMIT_MESSAGE" value="95_less" />
   </component>
   <component name="WindowStateProjectService">
     <state x="551" y="275" key="#ESLint" timestamp="1608651227146">
@@ -387,10 +397,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1607709710585" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1609865361799">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1609865485323">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1609865361799" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1609865485323" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1608221669430">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
