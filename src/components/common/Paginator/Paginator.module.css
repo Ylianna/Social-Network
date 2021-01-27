@@ -1,13 +1,28 @@
 
 .paginator {
-    margin: 10px;
+    font-size: 15px;
+    text-align: center;
+    font-family: "MV Boli";
+    font-weight: bold;
+
 }
 .pageNumber {
-    padding: 2px;
+    padding: 3px;
     border: 1px solid grey;
+    color: #201b45;
+    font-size: 15px;
+    font-weight: normal;
+
+
 }
 
 .pageNumber.selectedPage {
-    font-weight: bold;
+    font-weight: bolder;
     border-color: black;
+    font-size: 18px;
+}
+
+.userN {
+    padding: 10px;
+
 }

@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import './App.css';
-import Navbar from './components/Navbar/Navbar';
+import Navbar from "./components/NavBar/Navbar";
 import {HashRouter, Route, withRouter} from "react-router-dom";
 import UsersContainer from "./components/Users/UsersContainer";
 import HeaderContainer from "./components/Header/HeaderContainer";

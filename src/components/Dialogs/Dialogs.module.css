@@ -4,8 +4,9 @@
 }
 
 .dialogsItems {
-    padding: 10px;
-    color: white;
+    padding: 15px;
+    font-style: italic;
+    font-size: 17px;
 }
 
 .dialogsItems .active {
@@ -14,6 +15,7 @@
 
 .messages {
     padding: 10px;
+    color: white;
 }
 
 .messages .message {

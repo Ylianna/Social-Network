@@ -1,17 +1,20 @@
 .header {
     grid-area: h;
-    background-color: green;
-}
-
-.header img {
-    width: 20px;
+    background-color: #201b45;
 }
 
 .loginBlock {
     float: right;
-
+    padding: 10px 20px;
+}
+.loginBut {
+    font-size: 20px;
+    color: white;
 }
 .loginBlock a {
     color: white;
+    font-family: Arial;
+    font-weight:normal;
+    font-size: 20px;
 }
 

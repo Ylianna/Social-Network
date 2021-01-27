@@ -1,7 +1,19 @@
 .postsBlock {
-    padding: 10px;
+    padding: 20px;
+    color: #201b45;
+
+}
+
+.addPosts {
+    padding: 5px 20px;
+    border-radius: 12px;
 }
 
 .posts {
     margin-top: 10px;
+}
+
+.postsTextarea {
+   size: 5px;
+    text-align: center;
 }
