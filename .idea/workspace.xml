@@ -19,29 +19,20 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="875de69f-6019-44d1-8b10-4b4f9bb4aa97" name="Default Changelist" comment="95_less">
-      <change afterPath="$PROJECT_DIR$/src/components/Dialogs/AddMessageForm/AddMessageForm.module.css" afterDir="false" />
+    <list default="true" id="875de69f-6019-44d1-8b10-4b4f9bb4aa97" name="Default Changelist" comment="CSS modif">
+      <change afterPath="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileDataForm.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/api/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/api.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Dialogs/AddMessageForm/AddMessageForm.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Dialogs/AddMessageForm/AddMessageForm.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Dialogs/DialogsContainer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Dialogs/DialogsContainer.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/NavBar/Navbar.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/NavBar/Navbar.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPosts.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPosts.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPosts.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPosts.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Profile/MyPosts/Post/Post.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/Post/Post.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Profile/MyPosts/Post/Post.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/Post/Post.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/Profile.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/Profile.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/ProfileContainer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/ProfileContainer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileInfo.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileInfo.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileInfo.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileInfo.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileStatus.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileStatus.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Users/Users.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Users/Users.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Users/users.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Users/users.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/common/Paginator/Paginator.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/common/Paginator/Paginator.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/common/Paginator/Paginator.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/common/Paginator/Paginator.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileStatusWithHooks.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileStatusWithHooks.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/app-reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/app-reducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/profile-reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/profile-reducer.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +60,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Dialogs/AddMessageForm" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../vladiodo" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -78,7 +69,7 @@
     <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/react-scripts" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -157,8 +148,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.build" />
         <item itemvalue="npm.deploy" />
+        <item itemvalue="npm.build" />
         <item itemvalue="Jest.ProfileStatus component.callback should be called" />
         <item itemvalue="Jest.ProfileStatus component.input should be displayed in editMode instead of span" />
         <item itemvalue="Jest.ProfileStatus component.after creation &lt;input&gt; shouldn't be displayed with correct status" />
@@ -187,7 +178,14 @@
       <workItem from="1608646459112" duration="7870000" />
       <workItem from="1609256913201" duration="9959000" />
       <workItem from="1609861523375" duration="8370000" />
-      <workItem from="1611769004604" duration="10704000" />
+      <workItem from="1611769004604" duration="11721000" />
+      <workItem from="1611843958054" duration="3931000" />
+      <workItem from="1611854586942" duration="959000" />
+      <workItem from="1611857232200" duration="463000" />
+      <workItem from="1611913260694" duration="170000" />
+      <workItem from="1611913995637" duration="4000" />
+      <workItem from="1612201739111" duration="233000" />
+      <workItem from="1613545541466" duration="14341000" />
     </task>
     <task id="LOCAL-00001" summary="80_less">
       <created>1607965648841</created>
@@ -301,7 +299,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609865465488</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="CSS modif">
+      <created>1611779940969</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1611779940969</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -335,7 +340,8 @@
     <MESSAGE value="93_less" />
     <MESSAGE value="94_less" />
     <MESSAGE value="95_less" />
-    <option name="LAST_COMMIT_MESSAGE" value="95_less" />
+    <MESSAGE value="CSS modif" />
+    <option name="LAST_COMMIT_MESSAGE" value="CSS modif" />
   </component>
   <component name="WindowStateProjectService">
     <state x="551" y="275" key="#ESLint" timestamp="1608651227146">
@@ -346,22 +352,26 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1608049983375" />
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1609864653118">
+    <state x="462" y="106" key="FileChooserDialogImpl" timestamp="1612201969237">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1609864653118" />
-    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1609864653118">
+    <state x="462" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1612201969237" />
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1611857741991">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1609864653118" />
-    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1609864653117">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1611857741991" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1611857741990">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1609864653117" />
-    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1609864653118">
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1611857741990" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1611857741990">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1609864653118" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1611857741990" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1611857741990">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1611857741990" />
     <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1608313728304">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -410,14 +420,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1345" height="223" key="GridCell.Tab.3.right/0.0.1366.728@0.0.1366.728" timestamp="1608313728305" />
-    <state x="184" y="9" key="SettingsEditor" timestamp="1607709710585">
+    <state x="184" y="9" key="SettingsEditor" timestamp="1611857495088">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1607709710585" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1609865485323">
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1611857495088" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1611779945436">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1609865485323" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1611779945436" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1608221669430">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
