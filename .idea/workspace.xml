@@ -19,20 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="875de69f-6019-44d1-8b10-4b4f9bb4aa97" name="Default Changelist" comment="CSS modif">
-      <change afterPath="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileDataForm.jsx" afterDir="false" />
+    <list default="true" id="875de69f-6019-44d1-8b10-4b4f9bb4aa97" name="Default Changelist" comment="97 less">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/api/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/api.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPosts.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPosts.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Profile/Profile.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/Profile.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Profile/ProfileContainer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/ProfileContainer.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileInfo.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileInfo.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileInfo.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileInfo.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileStatus.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileStatus.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileStatusWithHooks.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileStatusWithHooks.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/app-reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/app-reducer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/profile-reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/profile-reducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Login/Login.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Login/Login.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/auth-reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/auth-reducer.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -185,7 +176,8 @@
       <workItem from="1611913260694" duration="170000" />
       <workItem from="1611913995637" duration="4000" />
       <workItem from="1612201739111" duration="233000" />
-      <workItem from="1613545541466" duration="14341000" />
+      <workItem from="1613545541466" duration="14387000" />
+      <workItem from="1613663306374" duration="4342000" />
     </task>
     <task id="LOCAL-00001" summary="80_less">
       <created>1607965648841</created>
@@ -306,7 +298,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611779940969</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="97 less">
+      <created>1613589212503</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1613589212503</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -341,7 +340,8 @@
     <MESSAGE value="94_less" />
     <MESSAGE value="95_less" />
     <MESSAGE value="CSS modif" />
-    <option name="LAST_COMMIT_MESSAGE" value="CSS modif" />
+    <MESSAGE value="97 less" />
+    <option name="LAST_COMMIT_MESSAGE" value="97 less" />
   </component>
   <component name="WindowStateProjectService">
     <state x="551" y="275" key="#ESLint" timestamp="1608651227146">
@@ -424,10 +424,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1611857495088" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1611779945436">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1613589214454">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1611779945436" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1613589214454" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1608221669430">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
