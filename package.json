@@ -2,7 +2,11 @@
   "name": "my-react",
   "version": "0.1.0",
   "private": true,
+<<<<<<< HEAD
   "homepage": "https://ylianna.github.io/Social_Network",
+=======
+  "homepage": "https://ylianna.github.io/Social_Network/",
+>>>>>>> 310db4085164a4b4da58f04b3c1ded57594c3791
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
@@ -26,8 +30,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build",
+    "predeploy": "npm run build"
+
   },
   "eslintConfig": {
     "extends": "react-app"
